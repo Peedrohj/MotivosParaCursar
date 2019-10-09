@@ -6,4 +6,4 @@ Este repositório tem como objetivo reunir depoimento e argumentos gerados por e
 
 - Escolha a pasta respectiva ao seu curso, exemplo se você estuda ciência da computação, clique na pasta CienciaDaComputacao
 - Clique no botão create new file
-- No nome do arquivo coloque um resumo do seu motivo, ex: Estudar computação permite resolver problemas complexos e desafiadores.
+- No nome do arquivo coloque um resumo do seu motivo, ex: ProblemasComplexos.md
