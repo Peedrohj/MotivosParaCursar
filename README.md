@@ -4,6 +4,10 @@ Este repositório tem como objetivo reunir depoimento e argumentos gerados por e
 
 ## Instruções para contribuir
 
-- Escolha a pasta respectiva ao seu curso, exemplo se você estuda ciência da computação, clique na pasta CienciaDaComputacao
+- Se inscreva no evento clicando em start hacking no site: https://hacktoberfest.digitalocean.com/
+- Escolha a pasta respectiva ao seu curso, ex: se você estuda ciência da computação, clique na pasta CienciaDaComputacao
 - Clique no botão create new file
-- No nome do arquivo coloque um resumo do seu motivo, ex: ProblemasComplexos.md
+- No nome do arquivo coloque um resumo do seu motivo, ex: problemas-complexos.md
+- No corpo do arquivo escreva algum argumento que justique o porquê alguém deveria estudar o curso escolhido.
+- Clique em **propose changes** e em seguida **open new pull request**
+- Realizando 4 contribuções você completa o desafio do Hacktoberfest
